@@ -1,0 +1,29 @@
+# 이천서 | 부산대학교 컴퓨터공학터공학부 3학년
+
+## About Me
+- ‘개발자다워지는 중’입니다.
+- Unity 기반 게임 개발을 중심으로 공부하고 있습니다.
+- 게임 개발자로서의 성장을 꿈꾸고 있습니다.
+
+## Skills
+- Languages: Python, C#
+- Tools: GitHub, Visual Studio, Unity
+
+## Experience
+- 팀 *PPP* 프로젝트: 약속 시간 및 장소 조율 웹 프론트엔드 구현 담당
+- Unity 기반 미니 게임 다수 기획 및 제작
+- Unity 협업 게임 프로젝트 참여 중
+
+## Objective
+- Unity 3D 개발 심화 학습
+- 팀 프로젝트 경험 확대 및 협업 능력 강화
+- 알고리즘적 사고와 문제 해결 능력 향상
+
+## Contact
+- E-mail: angel5337@naver.com
+- Baekjoon: @angel5337
+- Blog: [beepbeepmaeae.tistory.com](https://beepbeepmaeae.tistory.com)
+
+---
+> "한 곳에 머무르지 말고 항상 정신적, 육체적으로 방랑하라. 편안함을 느끼며 안주해서는 안 된다."  
+> — 에란 카츠
