@@ -17,6 +17,7 @@
   + 25.04. ~ 3D 퍼즐 공포 어드벤처 게임 'Maggi' 개발 팀원
   + 25.07. ~ 3D 우주 생존 탈출 게임 개발 팀장
 - Unity 기반 미니 게임 다수 기획 및 제작
+  + 25.07. ~ 25.08. 2D 액션 어드벤처 게임 'MiniBossRush' 개발 (https://github.com/BeepBeepMaeae/MiniBossRush)
 
 ## Objective
 - Unity 3D 개발 심화 학습
