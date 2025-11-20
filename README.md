@@ -10,6 +10,7 @@
 - Tools: GitHub, Visual Studio, Unity
 
 ## Experience
+- 19. 08. 제3회 부 ICT융합 해카톤 대회 고등부 최우수상 수상
 - 팀 **PPP**:
   + 24.03. ~ 24.07. 약속 시간 및 장소 조율 웹 'PPP' 프론트엔드 (https://github.com/untoc-camp/PlacePlanPlatform)
 - 25.05. 2025 부산대학교 프로그래밍 대회 (PNUPC) 운영자 (https://www.acmicpc.net/contest/view/1478)
