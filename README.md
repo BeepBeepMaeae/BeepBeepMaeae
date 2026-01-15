@@ -16,12 +16,13 @@
 - 25.05. 2025 부산대학교 프로그래밍 대회 (PNUPC) 운영자 (https://www.acmicpc.net/contest/view/1478)
 - 팀 **Rayer**:
   + 25.04. ~ 25.12. 3D 퍼즐 공포 어드벤처 게임 'Maggi' 개발 팀원
+  + 25.12 ~ 3D 1인칭 멀티 하이퍼 서바이벌 게임 (https://github.com/RRRayer/Rative) 
 - 팀 **Apptive**:
   + 25.11. ~ 2D 디펜스 서바이벌 'Avocado Survival' 개발 팀원
 - 25.12. 동서대학교 Deep Dive 게임잼 참가
 - Unity 기반 미니 게임 다수 기획 및 제작
   + 25.07. ~ 25.08. 2D 액션 어드벤처 게임 'MiniBossRush' 개발 (https://github.com/BeepBeepMaeae/MiniBossRush)
-  + 25.09. ~ 25.10. 온라인 단어 추리 배틀 게임 'WordWar' 개발
+  + 25.09. ~ 25.10. 온라인 단어 추리 배틀 게임 'WordWar' 개발 (https://github.com/BeepBeepMaeae/WordWar)
 
 ## Objective
 - Unity 3D 개발 심화 학습
