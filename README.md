@@ -20,6 +20,7 @@
 - 팀 **Apptive**:
   + 25.11. ~ 2D 디펜스 서바이벌 'Avocado Survival' 개발 팀원
 - 25.12. 동서대학교 Deep Dive 게임잼 참가
+- 26.01. Global Game Jam 2026 참가
 - Unity 기반 미니 게임 다수 기획 및 제작
   + 25.07. ~ 25.08. 2D 액션 어드벤처 게임 'MiniBossRush' 개발 (https://github.com/BeepBeepMaeae/MiniBossRush)
   + 25.09. ~ 25.10. 온라인 단어 추리 배틀 게임 'WordWar' 개발 (https://github.com/BeepBeepMaeae/WordWar)
