@@ -1,4 +1,4 @@
-# 이천서 | 부산대학교 정보컴퓨터공학부 3학년
+# 이천서 | 부산대학교 정보컴퓨터공학부 4학년
 
 ## About Me
 - ‘개발자다워지는 중’입니다.
@@ -16,7 +16,7 @@
 - 25.05. 2025 부산대학교 프로그래밍 대회 (PNUPC) 운영자 (https://www.acmicpc.net/contest/view/1478)
 - 팀 **Rayer**:
   + 25.04. ~ 25.12. 3D 퍼즐 공포 어드벤처 게임 'Maggi' 개발 팀원
-  + 25.12 ~ 3D 1인칭 멀티 하이퍼 서바이벌 게임 (https://github.com/RRRayer/Rative) 
+  + 25.12 ~ 온라인 숨바꼭질 파티 게임 (https://github.com/RRRayer/AIBooster) 
 - 팀 **Apptive**:
   + 25.11. ~ 2D 디펜스 서바이벌 'Avocado Survival' 개발 팀원
 - 25.12. 동서대학교 Deep Dive 게임잼 참가
