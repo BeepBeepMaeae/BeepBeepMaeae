@@ -1,5 +1,7 @@
 # 이천서 | 부산대학교 정보컴퓨터공학부 4학년
 
+[![BeepBeepMaeae's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeepBeepMaeae)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
+
 ## About Me
 - ‘개발자다워지는 중’입니다.
 - Unity 기반 게임 개발을 중심으로 공부하고 있습니다.
@@ -7,7 +9,10 @@
 
 ## Skills
 - Languages: Python, C#
+![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=White)
 - Tools: GitHub, Visual Studio, Unity
+![gitHub](https://img.shields.io/badge/gitHub-181717.svg?&style=for-the-badge&logo=gitHub&logoColor=White)
+![unity](https://img.shields.io/badge/unity-FFFFFF.svg?&style=for-the-badge&logo=unity&logoColor=White)
 
 ## Experience
 - 19.08. 제3회 부산 ICT융합 해카톤 대회 고등부 최우수상 수상
@@ -16,7 +21,8 @@
 - 25.05. 2025 부산대학교 프로그래밍 대회 (PNUPC) 운영자 (https://www.acmicpc.net/contest/view/1478)
 - 팀 **Rayer**:
   + 25.04. ~ 25.12. 3D 퍼즐 공포 어드벤처 게임 'Maggi' 개발 팀원
-  + 25.12 ~ 온라인 숨바꼭질 파티 게임 (https://github.com/RRRayer/AIBooster) 
+  + 25.12 ~ 26.03. 온라인 숨바꼭질 파티 게임 'Find Mask' 개발 팀장 (https://github.com/RRRayer/GGJ26)
+  + 26.02 ~ 라운드형 PvPvE AOS라이크 게임 개발 팀원
 - 팀 **Apptive**:
   + 25.11. ~ 2D 디펜스 서바이벌 'Avocado Survival' 개발 팀원
 - 25.12. 동서대학교 Deep Dive 게임잼 참가
@@ -33,6 +39,7 @@
 ## Contact
 - E-mail: angel5337@naver.com
 - Baekjoon: @angel5337
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=angel5337)](https://solved.ac/angel5337/)]
 - Blog: [beepbeepmaeae.tistory.com](https://beepbeepmaeae.tistory.com)
 
 ---
