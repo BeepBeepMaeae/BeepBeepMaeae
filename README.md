@@ -42,7 +42,7 @@
 - E-mail: angel5337@naver.com
 - Baekjoon: @angel5337
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=angel5337)](https://solved.ac/angel5337/)]
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=angel5337)](https://solved.ac/angel5337/)
 - Blog: [beepbeepmaeae.tistory.com](https://beepbeepmaeae.tistory.com)
 
 ---
