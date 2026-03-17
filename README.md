@@ -9,10 +9,12 @@
 
 ## Skills
 - Languages: Python, C#
-![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=White)
+
+![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=Black)
 - Tools: GitHub, Visual Studio, Unity
+
 ![gitHub](https://img.shields.io/badge/gitHub-181717.svg?&style=for-the-badge&logo=gitHub&logoColor=White)
-![unity](https://img.shields.io/badge/unity-FFFFFF.svg?&style=for-the-badge&logo=unity&logoColor=White)
+![unity](https://img.shields.io/badge/unity-FFFFFF.svg?&style=for-the-badge&logo=unity&logoColor=Black)
 
 ## Experience
 - 19.08. 제3회 부산 ICT융합 해카톤 대회 고등부 최우수상 수상
@@ -39,6 +41,7 @@
 ## Contact
 - E-mail: angel5337@naver.com
 - Baekjoon: @angel5337
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=angel5337)](https://solved.ac/angel5337/)]
 - Blog: [beepbeepmaeae.tistory.com](https://beepbeepmaeae.tistory.com)
 
