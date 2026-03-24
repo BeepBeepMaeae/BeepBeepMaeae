@@ -8,13 +8,16 @@
 - 게임 개발자로서의 성장을 꿈꾸고 있습니다.
 
 ## Skills
-- Languages: Python, C#
+- Languages
 
-![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=Black)
-- Tools: GitHub, Visual Studio, Unity
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+- Tools
 
 ![gitHub](https://img.shields.io/badge/gitHub-181717.svg?&style=for-the-badge&logo=gitHub&logoColor=White)
-![unity](https://img.shields.io/badge/unity-FFFFFF.svg?&style=for-the-badge&logo=unity&logoColor=Black)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=000000)
 
 ## Experience
 - 19.08. 제3회 부산 ICT융합 해카톤 대회 고등부 최우수상 수상
