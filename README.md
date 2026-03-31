@@ -1,6 +1,6 @@
 # 이천서 | Game Developer
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=BeepBeepMaeae&show_icons=true&theme=radical)](https://github.com/BeepBeepMaeae)
+[![GitHub stats](https://streak-stats.demolab.com?user=BeepBeepMaeae)](https://github.com/BeepBeepMaeae)
 
 Unity 기반 게임 개발을 중심으로, 직접 만들고 부딪히며 성장하고 있는 개발자입니다.  
 게임 플레이 경험을 구현하는 과정과, 팀 프로젝트에서 아이디어를 실제 결과물로 만드는 과정을 좋아합니다.
