@@ -39,15 +39,15 @@ Unity 기반 게임 개발을 중심으로, 직접 만들고 부딪히며 성장
 - 팀 'Rative'의 온라인 숨바꼭질 파티 게임
 - GitHub: https://github.com/RRRayer/GGJ26
 
-### MiniBossRush
-- 25.07. ~ 25.08.
-- 2D 액션 어드벤처 게임
-- GitHub: https://github.com/BeepBeepMaeae/MiniBossRush
-
 ### WordWar
 - 25.09. ~ 25.10.
 - 온라인 단어 추리 배틀 게임
 - GitHub: https://github.com/BeepBeepMaeae/WordWar
+
+### MiniBossRush
+- 25.07. ~ 25.08.
+- 2D 액션 어드벤처 게임
+- GitHub: https://github.com/BeepBeepMaeae/MiniBossRush
 
 ### Maggi
 - 기간: 25.04. ~ 25.12.
@@ -70,8 +70,8 @@ Unity 기반 게임 개발을 중심으로, 직접 만들고 부딪히며 성장
 ---
 
 ## Ongoing
-- 25.11. ~ 2D 디펜스 서바이벌 게임 'Avocado Survival' 개발 참여
-- 26.02. ~ 라운드형 PvPvE AOS 라이크 게임 개발 참여
+- 25.11. ~ 2D 디펜스 서바이벌 게임 'Avocado Survivor' 개발 참여
+- 26.02. ~ 라운드형 PvPvE AOS 라이크 게임 '메아리' 개발 참여
 
 ---
 
