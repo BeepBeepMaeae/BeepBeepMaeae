@@ -1,16 +1,13 @@
-# 이천서 | Game Developer
+# 이천서 | Unity Gameplay Programmer
+
+> 사람과 사람을 연결하는 게임 경험을 만드는 개발자  
+> AI-assisted prototyping · Multiplayer systems · QA-driven development
 
 [![GitHub stats](https://streak-stats.demolab.com?user=BeepBeepMaeae)](https://github.com/BeepBeepMaeae)
 
-Unity 기반 게임 개발을 중심으로, 직접 만들고 부딪히며 성장하고 있는 개발자입니다.  
-게임 플레이 경험을 구현하는 과정과, 팀 프로젝트에서 아이디어를 실제 결과물로 만드는 과정을 좋아합니다.
-
----
-
-## About Me
-- Unity와 C#을 중심으로 게임을 만들고 있습니다.
-- 2D/3D 게임 프로젝트, 게임잼, 팀 협업 경험을 쌓아가고 있습니다.
-- 게임 플레이 구현뿐 아니라, 기획 의도를 실제 플레이 경험으로 연결하는 개발에 관심이 있습니다.
+게임은 사람과 사람을 연결하는 강력한 매개체라고 믿습니다.  
+저는 Unity 기반으로 멀티플레이, 시스템 구조 설계, QA/최적화에 집중하며, 생성형 AI를 플랜 작성 → 구현 → 검토 → 테스트 → 커밋/PR로 이어지는 개발 파이프라인 전반에 활용합니다.  
+빠르게 만들고, 구조적으로 다듬고, 끝까지 검증해 플레이 경험을 완성하는 개발자입니다.
 
 ---
 
@@ -28,7 +25,6 @@ Unity 기반 게임 개발을 중심으로, 직접 만들고 부딪히며 성장
 ![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=chatbot&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![VEGAS](https://img.shields.io/badge/VEGAS-1A1A1A?style=for-the-badge&logo=vegas&logoColor=white)
 
 ---
 
