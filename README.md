@@ -82,7 +82,7 @@
 ---
 
 ## Ongoing
-- 25.11. ~ 2D 디펜스 서바이벌 게임 'Avocado Survivor' 개발 참여 [플레이 링크o](https://teamavo.itch.io/avocado-survivors)
+- 25.11. ~ 2D 디펜스 서바이벌 게임 'Avocado Survivor' 개발 참여 [플레이 링크](https://teamavo.itch.io/avocado-survivors)
 - 26.02. ~ 라운드형 PvPvE AOS 라이크 게임 '메아리' 개발 참여
 - 26.04. ~ **펄어비스 딩가딩 프로젝트 교육 서포터즈**
 
