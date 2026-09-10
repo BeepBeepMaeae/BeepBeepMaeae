@@ -1,0 +1,14 @@
+name: Update productive-box gist
+on:
+    workflow_dispatch:
+    schedule:
+        - cron: '0 15 * * *'
+jobs:
+    update-gist:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: maxam2017/productive-box@master
+              env:
+                  GH_TOKEN: ${{ secrets.GH_TOKEN }}
+                  GIST_ID: 812e37d35fad09bdd9be071a1fc442f8
+                  TIMEZONE: Asia/Seoul
