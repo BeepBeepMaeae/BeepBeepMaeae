@@ -14,8 +14,10 @@ Unity로 게임 규칙과 멀티플레이 흐름을 구현합니다. 플레이 �
 ### Languages
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### Tools
 
@@ -30,21 +32,23 @@ Unity로 게임 규칙과 멀티플레이 흐름을 구현합니다. 플레이 �
 
 ## Featured Projects
 
-### 가짜 메이플러를 찾아라!
-
-- 26.05. ~
-- 역할 기반 온라인 숨바꼭질 파티 게임
-- 라운드·역할·미션·세션 흐름 구현
-- **2026 메커톤 우수상 수상작**
-- [티저 영상](https://www.youtube.com/watch?v=YavZxzQKCXw) / [플레이](https://maplestoryworlds.nexon.com/ko/play/fbbefea501cc4172820f21a3c3d67654)
-
 ### DiaBlackJack (데블랙잭)
 
-- 26.07. ~ 26.08.
+- 26.07. ~
 - 블랙잭 규칙을 전투와 덱 빌딩 런으로 확장한 로그라이트 카드 게임
-- 팀장으로 전체 게임 규칙을 기획하고, AI와 함께 전투·런 진행·저장 및 이어하기를 구현·검증
+- 팀장 · 전체 게임 규칙 기획 및 전투 코어 구현
+- 공개 정보 기반 적 AI 설계 · 실행 전 행동 검증 · EditMode 테스트
 - **NAN 2026 — NHN Game × AI Hackathon 본선 진출작**
-- [티저 영상](https://www.youtube.com/watch?v=a0Z4TNIkpLM) / [플레이](https://nhnai-26.github.io/DiaBlackJack/Docs/Build/) / [GitHub](https://github.com/NHNAI-26/DiaBlackJack)
+- [티저 영상](https://www.youtube.com/watch?v=a0Z4TNIkpLM)
+
+### 가짜 메이플러를 찾아라!
+
+- 26.05. ~ 26.10.
+- 역할 기반 온라인 숨바꼭질 파티 게임
+- 라운드·역할·미션·세션 흐름 구현
+- 공개 이후 클래식 팀전·좀비 모드 기획 및 개발 주도 · v1.0.1 업데이트
+- **2026 메커톤 우수상 수상작**
+- [티저 영상](https://www.youtube.com/watch?v=YavZxzQKCXw) / [플레이](https://maplestoryworlds.nexon.com/ko/play/fbbefea501cc4172820f21a3c3d67654)
 
 ### Unity ECS 렌더링 성능 연구
 
